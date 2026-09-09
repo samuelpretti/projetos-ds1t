@@ -5,3 +5,4 @@
 # receita
 # exercicio-layout
 # coca-cola
+# galeria

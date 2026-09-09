@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    height: 100vh;
+}
+
+header{
+    background-color:lightblue;
+    height: 100px;
+}
+
+footer{
+    background-color: lightgreen;
+    height: 100px;
+}
+
+main{
+    background-color: lightsalmon;
+    height: 100px;
+}

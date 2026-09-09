@@ -1,0 +1,36 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container {
+    background-color: rgb(0, 0, 0);
+    display:flex;
+    gap: 100px;
+    justify-content:center;
+    align-items:center;
+    height: 100vh;
+    justify-content:space;
+    width:80vh;
+    flex-wrap: wrap;
+}
+.caixa{
+    justify-content: center;
+    align-items: center;
+    display:flex;
+    width: 200px;
+    font-size: 40px;
+    height: 200px;
+    background-color: rgb(246, 136, 68);
+    border: 10px solid rgb(255, 255, 255);
+    font-size: 48px;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+img{
+    width:100%;
+}

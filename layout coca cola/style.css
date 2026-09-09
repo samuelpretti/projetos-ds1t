@@ -1,0 +1,40 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+.pato{
+    display: flex;
+    height: 100vh;
+
+    background: linear-gradient(#CF2425, #d46266,#CF2425);
+}
+
+.macaco {
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.ganso{
+    position: absolute; 
+    left: 1100px;
+    top: 150px;
+    height: 80vh
+}
+.porco{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+}
+.dog{
+    position:absolute;
+    left: 730px;
+    top: 600px;
+    height: 10vh
+}
+.cat{
+    position: absolute;
+    right: 95px;
+    top: 1150px;
+}
